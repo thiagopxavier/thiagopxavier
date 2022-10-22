@@ -1,6 +1,6 @@
 ### Hi, I'm Thiago.
 
-- I'm currently studying at Trybe..
+- I'm currently studying at Trybe.
 - I'm studying ***C#*** and ***3d Modeling*** for Games.
 
 
@@ -19,7 +19,7 @@
 ##
 
 <div>
-  <a href="https://thiagopxavier.github.io" target="_blank"><img width="104em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://thiagopxavier.github.io" target="_blank"><img width="104em" src="https://img.shields.io/badge/website-F0DB4F?style=for-the-badge&logo=About.me&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagopxavier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/voidnaifa" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
