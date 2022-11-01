@@ -1,4 +1,4 @@
-### Hi, I'm Thiago.
+### Hi, I'm Thiago
 
 - I'm currently studying at Trybe.
 - I'm studying ***C#*** and ***3D Modeling*** for Games.
