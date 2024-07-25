@@ -1,7 +1,7 @@
-### Hi, I'm Thiago
+### Oi, eu sou o Thiago
 
-- I'm currently studying at Trybe.
-- I'm studying ***C#*** and ***3D Modeling*** for Games.
+- Um desenvolvedor e um eterno estudante.
+- Estou atualmente estudando ***C#*** e ***Java Script***.
 
 
 <div style="display: inline_block"><br>
